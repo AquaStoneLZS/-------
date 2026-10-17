@@ -1,0 +1,2 @@
+function dwc1:plot/d_and_i/tozone2
+function darkworld:gameplay/checkpoint_gameplay_reset

@@ -1,0 +1,6 @@
+#By ChiZeSQR
+execute if score @s dw_Ba.power1_lvl matches 2 run item replace entity @s container.1 with gold_ingot[item_model="dw:stun_",custom_name=[{text:"技能 ",color:green,"italic":false},{text:"冷却中..",color:"gray"}],custom_data={CCL:Slot1,PlayerContain:1,Lv:1,cd:1}]
+execute if score @s dw_Ba.power1_lvl matches 3 run item replace entity @s container.1 with gold_ingot[item_model="dw:stun_",custom_name=[{text:"技能 ",color:green,"italic":false},{text:"冷却中..",color:"gray"}],custom_data={CCL:Slot1,PlayerContain:1,Lv:2,cd:1}]
+execute if score @s dw_Ba.power1_lvl matches 4 run item replace entity @s container.1 with gold_ingot[item_model="dw:stun_",custom_name=[{text:"技能 ",color:green,"italic":false},{text:"冷却中..",color:"gray"}],custom_data={CCL:Slot1,PlayerContain:1,Lv:3,cd:1}]
+execute if score @s dw_Ba.power1_lvl matches 5 run item replace entity @s container.1 with gold_ingot[item_model="dw:stun_",custom_name=[{text:"技能 ",color:green,"italic":false},{text:"冷却中..",color:"gray"}],custom_data={CCL:Slot1,PlayerContain:1,Lv:4,cd:1}]
+execute if score @s dw_Ba.power1_lvl matches 6 run item replace entity @s container.1 with gold_ingot[item_model="dw:stun_",custom_name=[{text:"技能 ",color:green,"italic":false},{text:"冷却中..",color:"gray"}],custom_data={CCL:Slot1,PlayerContain:1,Lv:5,cd:1}]

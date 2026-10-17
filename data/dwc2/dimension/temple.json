@@ -1,0 +1,19 @@
+{
+    "type": "overworld",
+    "generator": {
+        "type": "flat",
+        "settings": {
+            "layers": [
+                {
+                    "height": 1,
+                    "block": "bedrock"
+                },
+                {
+                    "height": 63,
+                    "block": "stone_bricks"
+                }
+            ],
+            "structure_overrides": []
+        }
+    }
+}

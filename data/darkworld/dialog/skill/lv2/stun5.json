@@ -1,0 +1,233 @@
+{
+    "type": "minecraft:multi_action",
+    "columns": 3,
+    "actions": [
+        {
+            "label": {"text": "\uf002"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            },
+            "tooltip": [{"text":"原始恐惧","color":"red","bold":false,"italic":false},{"text":"\n\n","bold":false,"italic":false},{"text":"点击选择！","color":"yellow","bold":false,"italic":false}]
+        },
+        {
+            "label": [
+                {"text": "等级","color": "red"},
+                {"text": "：","color": "white"},
+                {"text": "1   ","color":"aqua"},
+                {"text": "范围","color": "gold"},
+                {"text": "：","color": "white"},
+                {"text": "15m   ","color":"aqua"},
+                {"text": "冷却","color": "blue"},
+                {"text": "：","color": "white"},
+                {"text": "35s","color":"aqua"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "已解锁","color": "green"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "red"},
+                {"text": "：","color": "white"},
+                {"text": "2   ","color":"aqua"},
+                {"text": "范围","color": "gold"},
+                {"text": "：","color": "white"},
+                {"text": "20m   ","color":"aqua"},
+                {"text": "冷却","color": "blue"},
+                {"text": "：","color": "white"},
+                {"text": "32s","color":"aqua"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "已解锁","color": "green"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "/say hi"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "red"},
+                {"text": "：","color": "white"},
+                {"text": "3   ","color":"aqua"},
+                {"text": "范围","color": "gold"},
+                {"text": "：","color": "white"},
+                {"text": "25m   ","color":"aqua"},
+                {"text": "冷却","color": "blue"},
+                {"text": "：","color": "white"},
+                {"text": "29s","color":"aqua"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "已解锁","color": "green"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "red"},
+                {"text": "：","color": "white"},
+                {"text": "4   ","color":"aqua"},
+                {"text": "范围","color": "gold"},
+                {"text": "：","color": "white"},
+                {"text": "30m   ","color":"aqua"},
+                {"text": "冷却","color": "blue"},
+                {"text": "：","color": "white"},
+                {"text": "26s","color":"aqua"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "已解锁","color": "green"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label":[
+                {"text": "等级","color": "red"},
+                {"text": "：","color": "white"},
+                {"text": "5   ","color":"aqua"},
+                {"text": "范围","color": "gold"},
+                {"text": "：","color": "white"},
+                {"text": "35m   ","color":"aqua"},
+                {"text": "冷却","color": "blue"},
+                {"text": "：","color": "white"},
+                {"text": "23s","color":"aqua"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "已解锁","color": "green"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "?   ","color":"gray"},
+                {"text": "范围","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "???   ","color":"gray"},
+                {"text": "冷却","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "???","color":"gray"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "点击升级！","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "/trigger dw_Ba.powertri set 5"
+            },
+            "tooltip": [{"text":"解锁条件：未知","color":"white","bold":false,"italic":false},{"text":"\n\n","bold":false,"italic":false},{"text":"点击选择！","color":"yellow","bold":false,"italic":false}]
+        },
+        {
+            "label": {"text": "重置技能点","color": "red"},
+            "width": 200,
+            "action": {
+                "type": "run_command",
+                "command": "/trigger dw_Ba.powertri set -1"
+            }
+        }
+    ],
+    "pause": false,
+    "after_action": "close",
+    "title": [{"text": "RING ALTAR","color": "red"}],
+    "can_close_with_escape": true,
+    "exit_action": {
+        "label": "返回"
+    }
+}

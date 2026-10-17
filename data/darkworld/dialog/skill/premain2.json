@@ -1,0 +1,221 @@
+{
+    "type": "minecraft:multi_action",
+    "columns": 3,
+    "actions": [
+        {
+            "label": {"text": "\uf002"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            },
+            "tooltip": [{"text":"原始恐惧","color":"red","bold":false,"italic":false}]
+        },
+        {
+            "label": [
+                {"text": "等级","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "1   ","color":"gray"},
+                {"text": "范围","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "15m   ","color":"gray"},
+                {"text": "冷却","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "35s","color":"gray"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "green"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "2   ","color":"gray"},
+                {"text": "范围","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "20m   ","color":"gray"},
+                {"text": "冷却","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "32s","color":"gray"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "/say hi"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "3   ","color":"gray"},
+                {"text": "范围","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "25m   ","color":"gray"},
+                {"text": "冷却","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "29s","color":"gray"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "4   ","color":"gray"},
+                {"text": "范围","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "30m   ","color":"gray"},
+                {"text": "冷却","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "26s","color":"gray"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "5   ","color":"gray"},
+                {"text": "范围","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "35m   ","color":"gray"},
+                {"text": "冷却","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "23s","color":"gray"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "等级","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "?   ","color":"gray"},
+                {"text": "范围","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "???   ","color":"gray"},
+                {"text": "冷却","color": "gray"},
+                {"text": "：","color": "gray"},
+                {"text": "???","color":"gray"}
+            ],
+            "width": 200,
+            "tooltip": [{"text": ""}],
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        }
+    ],
+    "pause": false,
+    "after_action": "close",
+    "title": [{"text": "RING ALTAR","color": "red"}],
+    "can_close_with_escape": false
+}

@@ -1,0 +1,7 @@
+#By ChiZeSQR
+scoreboard players add gameplay dw_C1.intro 1
+scoreboard players enable @a[scores={dw_Ba.leader=1}] dw_C1.bbrdia
+tellraw @a [{text:"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]
+tellraw @a [{"text": "BIERCE ","color": "#8471AD"},{"text": "「喔？还有一个？又有人陪了，真好。」","color": "white"}]
+tellraw @a[team=main] {"text": "\n[点击以继续]","italic": false,"color": "gray","click_event": {"action": "run_command","command": "trigger dw_C1.bbrdia set 2"},"hover_event": {"action": "show_text","value":{"text": "左键以继续"}}}
+execute as @a at @s run playsound dw:intro_1 player @s ~ ~ ~

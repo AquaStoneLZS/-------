@@ -1,0 +1,166 @@
+{
+    "type": "minecraft:multi_action",
+    "columns": 3,
+    "actions": [
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "","color": "red"}
+            ],
+            "width": 200,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "","color": "red"}
+            ],
+            "width": 200,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "","color": "red"}
+            ],
+            "width": 200,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "","color": "red"}
+            ],
+            "width": 200,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "","color": "red"}
+            ],
+            "width": 200,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "\uf004"},
+            "width": 21,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": [
+                {"text": "","color": "red"}
+            ],
+            "width": 200,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        },
+        {
+            "label": {"text": "","color": "yellow"},
+            "width": 70,
+            "action": {
+                "type": "run_command",
+                "command": "say 1"
+            }
+        }
+    ],
+    "pause": false,
+    "after_action": "close",
+    "title": [{"text": "RING ALTAR","color": "red"}],
+    "can_close_with_escape": false
+}

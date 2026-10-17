@@ -1,0 +1,19 @@
+{
+    "type": "overworld",
+    "generator": {
+        "type": "flat",
+        "settings": {
+            "layers": [
+                {
+                    "height": 1,
+                    "block": "sandstone"
+                },
+                {
+                    "height": 63,
+                    "block": "sand"
+                }
+            ],
+            "structure_overrides": []
+        }
+    }
+}

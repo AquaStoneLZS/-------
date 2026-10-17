@@ -1,0 +1,2 @@
+#By ChiZeSQR
+stopsound @a

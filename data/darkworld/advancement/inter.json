@@ -1,0 +1,18 @@
+{
+    "criteria": 
+    {
+      "example": 
+      {
+        "trigger": "player_hurt_entity",
+        "conditions": 
+        {
+            "entity": {
+                "type": "interaction"
+            }
+        }
+      }
+    },
+    "rewards": {
+        "function": "darkworld:function/rc_test/admain"
+    }
+}

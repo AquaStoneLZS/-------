@@ -1,0 +1,15 @@
+{
+    "type": "overworld",
+    "generator": {
+        "type": "flat",
+        "settings": {
+            "layers": [
+                {
+                    "height": 64,
+                    "block": "white_concrete"
+                }
+            ],
+            "structure_overrides": []
+        }
+    }
+}

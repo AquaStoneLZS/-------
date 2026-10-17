@@ -1,0 +1,15 @@
+{
+    "type": "overworld",
+    "generator": {
+        "type": "flat",
+        "settings": {
+            "layers": [
+                {
+                    "height": 60,
+                    "block": "grass_block"
+                }
+            ],
+            "structure_overrides": []
+        }
+    }
+}
